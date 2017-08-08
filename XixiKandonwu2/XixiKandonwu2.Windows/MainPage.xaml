@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="XixiKandonwu2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XixiKandonwu2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+            <FlipView Name="fv1" SelectionChanged="fv1_SelectionChanged">
+                <FlipView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Image Name="img1" Source="{Binding ImgPath}" Stretch="Fill"></Image>
+                        <TextBlock Text="浠浠学动物" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="Green" FontSize="100" ></TextBlock>
+                        <TextBlock Name="txtblock1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="30,30,30,30" Foreground="Red" Text="{Binding Name}" FontSize="200"></TextBlock>
+                        </Grid>
+                    </DataTemplate>
+                </FlipView.ItemTemplate>
+        </FlipView>
+        <MediaElement Name="mediaJiao" Source="{Binding Jiao}"></MediaElement>
+        <MediaElement Name="mediaName" Source="{Binding JiaoName}"></MediaElement>
+    </Grid>
+    <Page.BottomAppBar>
+        <AppBar>
+            <StackPanel Orientation="Horizontal">
+                <Button Name="btnJiaoJiao" Content="动物叫声" Margin="50,10,10,10" Width="100" Height="70" Click="btnJiaoJiao_Click"></Button>
+                <Button Name="btnJiaoName" Content="名字发音" Margin="10" Width="100" Height="70" Click="btnJiaoName_Click"></Button>
+            </StackPanel>
+        </AppBar>
+    </Page.BottomAppBar>
+</Page>

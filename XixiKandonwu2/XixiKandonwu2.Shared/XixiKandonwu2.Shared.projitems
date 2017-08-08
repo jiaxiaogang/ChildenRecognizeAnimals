@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>595c62ca-eebc-44ad-a930-c59e635595cb</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>XixiKandonwu2</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DonWu.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)images\bao.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\gou.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\hu.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\ji.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\ma.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\mao.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\niao.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\niu.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\si.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\tu.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\xian.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\xion.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\ya.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\yan.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\yin.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\yu.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)images\zu.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\bao.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\gou.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\hu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\ji.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\ma.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\mao.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\niao.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\niu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\si.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\tu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\xian.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\xion.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\ya.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\yan.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\yin.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\yu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)MusicName\zu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\bao.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\gou.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\hu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\ji.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\ma.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\mao.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\niao.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\niu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\si.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\tu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\xian.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\xion.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\ya.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\yan.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\yin.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\yu.mp3" />
+    <Content Include="$(MSBuildThisFileDirectory)Musics\zu.mp3" />
+  </ItemGroup>
+</Project>

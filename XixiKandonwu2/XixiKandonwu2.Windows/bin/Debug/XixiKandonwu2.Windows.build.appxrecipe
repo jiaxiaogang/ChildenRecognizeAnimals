@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ESEA-PC64BIT</Machine>
+    <WindowsUser>xiaogang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3ccc18d4-ff51-4307-9851-20774c2ddb9d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\bin\Debug\XixiKandonwu2.Windows.exe">
+      <PackagePath>XixiKandonwu2.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\bao.jpg">
+      <PackagePath>images\bao.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\gou.jpg">
+      <PackagePath>images\gou.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\hu.jpg">
+      <PackagePath>images\hu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\ji.jpg">
+      <PackagePath>images\ji.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\ma.jpg">
+      <PackagePath>images\ma.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\mao.jpg">
+      <PackagePath>images\mao.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\niao.jpg">
+      <PackagePath>images\niao.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\niu.jpg">
+      <PackagePath>images\niu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\si.jpg">
+      <PackagePath>images\si.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\tu.jpg">
+      <PackagePath>images\tu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\xian.jpg">
+      <PackagePath>images\xian.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\xion.jpg">
+      <PackagePath>images\xion.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\ya.jpg">
+      <PackagePath>images\ya.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\yan.jpg">
+      <PackagePath>images\yan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\yin.jpg">
+      <PackagePath>images\yin.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\yu.jpg">
+      <PackagePath>images\yu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\images\zu.jpg">
+      <PackagePath>images\zu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\bao.mp3">
+      <PackagePath>MusicName\bao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\gou.mp3">
+      <PackagePath>MusicName\gou.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\hu.mp3">
+      <PackagePath>MusicName\hu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\ji.mp3">
+      <PackagePath>MusicName\ji.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\ma.mp3">
+      <PackagePath>MusicName\ma.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\mao.mp3">
+      <PackagePath>MusicName\mao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\niao.mp3">
+      <PackagePath>MusicName\niao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\niu.mp3">
+      <PackagePath>MusicName\niu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\si.mp3">
+      <PackagePath>MusicName\si.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\tu.mp3">
+      <PackagePath>MusicName\tu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\xian.mp3">
+      <PackagePath>MusicName\xian.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\xion.mp3">
+      <PackagePath>MusicName\xion.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\ya.mp3">
+      <PackagePath>MusicName\ya.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\yan.mp3">
+      <PackagePath>MusicName\yan.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\yin.mp3">
+      <PackagePath>MusicName\yin.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\yu.mp3">
+      <PackagePath>MusicName\yu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\MusicName\zu.mp3">
+      <PackagePath>MusicName\zu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\bao.mp3">
+      <PackagePath>Musics\bao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\gou.mp3">
+      <PackagePath>Musics\gou.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\hu.mp3">
+      <PackagePath>Musics\hu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\ji.mp3">
+      <PackagePath>Musics\ji.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\ma.mp3">
+      <PackagePath>Musics\ma.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\mao.mp3">
+      <PackagePath>Musics\mao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\niao.mp3">
+      <PackagePath>Musics\niao.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\niu.mp3">
+      <PackagePath>Musics\niu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\si.mp3">
+      <PackagePath>Musics\si.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\tu.mp3">
+      <PackagePath>Musics\tu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\xian.mp3">
+      <PackagePath>Musics\xian.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\xion.mp3">
+      <PackagePath>Musics\xion.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\ya.mp3">
+      <PackagePath>Musics\ya.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\yan.mp3">
+      <PackagePath>Musics\yan.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\yin.mp3">
+      <PackagePath>Musics\yin.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\yu.mp3">
+      <PackagePath>Musics\yu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Shared\Musics\zu.mp3">
+      <PackagePath>Musics\zu.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\bin\Debug\XixiKandonwu2.Windows.xr.xml">
+      <PackagePath>XixiKandonwu2.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="43406.61796B0FFB671" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://43406.61796B0FFB671/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://43406.61796B0FFB671/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XixiKandonwu2.WindowsPhone.xr.xml" uri="ms-resource://43406.61796B0FFB671/Files/XixiKandonwu2.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>XixiKandonwu2.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://43406.61796B0FFB671/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://43406.61796B0FFB671/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://43406.61796B0FFB671/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://43406.61796B0FFB671/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://43406.61796B0FFB671/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://43406.61796B0FFB671/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="bao.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/bao.jpg">
+					<Candidate type="Path">
+						<Value>images\bao.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gou.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/gou.jpg">
+					<Candidate type="Path">
+						<Value>images\gou.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hu.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/hu.jpg">
+					<Candidate type="Path">
+						<Value>images\hu.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ji.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/ji.jpg">
+					<Candidate type="Path">
+						<Value>images\ji.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ma.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/ma.jpg">
+					<Candidate type="Path">
+						<Value>images\ma.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mao.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/mao.jpg">
+					<Candidate type="Path">
+						<Value>images\mao.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="niao.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/niao.jpg">
+					<Candidate type="Path">
+						<Value>images\niao.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="niu.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/niu.jpg">
+					<Candidate type="Path">
+						<Value>images\niu.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="si.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/si.jpg">
+					<Candidate type="Path">
+						<Value>images\si.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tu.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/tu.jpg">
+					<Candidate type="Path">
+						<Value>images\tu.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="xian.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/xian.jpg">
+					<Candidate type="Path">
+						<Value>images\xian.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="xion.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/xion.jpg">
+					<Candidate type="Path">
+						<Value>images\xion.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ya.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/ya.jpg">
+					<Candidate type="Path">
+						<Value>images\ya.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yan.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/yan.jpg">
+					<Candidate type="Path">
+						<Value>images\yan.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yin.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/yin.jpg">
+					<Candidate type="Path">
+						<Value>images\yin.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yu.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/yu.jpg">
+					<Candidate type="Path">
+						<Value>images\yu.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zu.jpg" uri="ms-resource://43406.61796B0FFB671/Files/images/zu.jpg">
+					<Candidate type="Path">
+						<Value>images\zu.jpg</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MusicName">
+				<NamedResource name="bao.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/bao.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\bao.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gou.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/gou.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\gou.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/hu.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\hu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ji.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/ji.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\ji.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ma.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/ma.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\ma.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mao.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/mao.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\mao.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="niao.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/niao.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\niao.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="niu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/niu.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\niu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="si.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/si.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\si.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/tu.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\tu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="xian.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/xian.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\xian.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="xion.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/xion.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\xion.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ya.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/ya.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\ya.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yan.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/yan.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\yan.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yin.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/yin.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\yin.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/yu.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\yu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/MusicName/zu.mp3">
+					<Candidate type="Path">
+						<Value>MusicName\zu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Musics">
+				<NamedResource name="bao.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/bao.mp3">
+					<Candidate type="Path">
+						<Value>Musics\bao.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gou.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/gou.mp3">
+					<Candidate type="Path">
+						<Value>Musics\gou.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/hu.mp3">
+					<Candidate type="Path">
+						<Value>Musics\hu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ji.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/ji.mp3">
+					<Candidate type="Path">
+						<Value>Musics\ji.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ma.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/ma.mp3">
+					<Candidate type="Path">
+						<Value>Musics\ma.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mao.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/mao.mp3">
+					<Candidate type="Path">
+						<Value>Musics\mao.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="niao.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/niao.mp3">
+					<Candidate type="Path">
+						<Value>Musics\niao.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="niu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/niu.mp3">
+					<Candidate type="Path">
+						<Value>Musics\niu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="si.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/si.mp3">
+					<Candidate type="Path">
+						<Value>Musics\si.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/tu.mp3">
+					<Candidate type="Path">
+						<Value>Musics\tu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="xian.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/xian.mp3">
+					<Candidate type="Path">
+						<Value>Musics\xian.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="xion.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/xion.mp3">
+					<Candidate type="Path">
+						<Value>Musics\xion.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ya.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/ya.mp3">
+					<Candidate type="Path">
+						<Value>Musics\ya.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yan.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/yan.mp3">
+					<Candidate type="Path">
+						<Value>Musics\yan.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yin.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/yin.mp3">
+					<Candidate type="Path">
+						<Value>Musics\yin.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/yu.mp3">
+					<Candidate type="Path">
+						<Value>Musics\yu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zu.mp3" uri="ms-resource://43406.61796B0FFB671/Files/Musics/zu.mp3">
+					<Candidate type="Path">
+						<Value>Musics\zu.mp3</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

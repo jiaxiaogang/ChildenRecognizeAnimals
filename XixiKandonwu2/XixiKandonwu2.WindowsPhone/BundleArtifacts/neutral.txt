@@ -1,0 +1,4 @@
+MainPackage=C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.WindowsPhone\bin\Release\XixiKandonwu2.WindowsPhone_1.2.0.3_Bundle\XixiKandonwu2.WindowsPhone_1.2.0.3_AnyCPU.appx
+SymbolPackage=C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.WindowsPhone\AppPackages\XixiKandonwu2.WindowsPhone_1.2.0.3_Test\XixiKandonwu2.WindowsPhone_1.2.0.3_AnyCPU.appxsym
+ResourcePack=C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.WindowsPhone\bin\Release\XixiKandonwu2.WindowsPhone_1.2.0.3_Bundle\XixiKandonwu2.WindowsPhone_1.2.0.3_scale-100.appx
+ResourcePack=C:\Users\xiaogang\Documents\Visual Studio 2013\Projects\XixiKandonwu2\XixiKandonwu2\XixiKandonwu2.WindowsPhone\bin\Release\XixiKandonwu2.WindowsPhone_1.2.0.3_Bundle\XixiKandonwu2.WindowsPhone_1.2.0.3_scale-140.appx
